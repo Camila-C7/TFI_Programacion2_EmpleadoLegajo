@@ -1,6 +1,5 @@
 ### Trabajo Final Integrador – Programación II
-_##Tecnicatura universitaria en Programacion - UTN
-_
+_Tecnicatura universitaria en Programacion - UTN_
 
 Aplicación Java con relación 1→1 (Empleado → Legajo), utilizando JDBC, el patrón DAO, servicios con transacciones, validaciones y menú de consola. Incluye UML, SQL y documentación completa.
 
