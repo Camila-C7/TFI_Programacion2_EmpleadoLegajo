@@ -27,16 +27,16 @@ Manejo de transacciones (commit/rollback)
 Validaciones y reglas de negocio
 
 **Funcionalidades principales:**
-✔ CRUD de Empleado
-✔ CRUD de Legajo
-✔ Relación 1→1 unidireccional
-✔ Validaciones de negocio (DNI único, legajo único, campos obligatorios)
-✔ Baja lógica
-✔ Manejo de errores con BusinessException
-✔ Menú de consola intuitivo
+-✔ CRUD de Empleado
+-✔ CRUD de Legajo
+-✔ Relación 1→1 unidireccional
+-✔ Validaciones de negocio (DNI único, legajo único, campos obligatorios)
+-✔ Baja lógica
+-✔ Manejo de errores con BusinessException
+-✔ Menú de consola intuitivo
 
 **Integrantes:**
-ALEJO TOMAS OLIVA COCA
-CAMILA CASTAÑO
-CHRISTIAN FERNANDO ORMACHEA
-ENZO MEDINA
+-ALEJO TOMAS OLIVA COCA
+-CAMILA CASTAÑO
+-CHRISTIAN FERNANDO ORMACHEA
+-ENZO MEDINA
