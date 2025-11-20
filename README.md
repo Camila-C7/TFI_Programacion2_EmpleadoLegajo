@@ -18,13 +18,13 @@ ________________________________________________________________________________
 /nbproject
 
 **Tecnologías utilizadas:**
-Java 17
-JDBC
-MySQL
-Patrón DAO
-Arquitectura por capas
-Manejo de transacciones (commit/rollback)
-Validaciones y reglas de negocio
+- Java 17
+- JDBC
+- MySQL
+- Patrón DAO
+- Arquitectura por capas
+- Manejo de transacciones (commit/rollback)
+- Validaciones y reglas de negocio
 
 **Funcionalidades principales:**
 - CRUD de Empleado
