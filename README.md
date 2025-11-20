@@ -35,6 +35,26 @@ ________________________________________________________________________________
 - Manejo de errores con BusinessException
 - Menú de consola intuitivo
 
+**Requisitos de ejecución:**
+- Java 17 (o superior)
+- MySQL Server en ejecución
+- Driver JDBC de MySQL agregado al proyecto
+
+**Creación de la base de datos:**
+1. Abrir MySQL Workbench.
+2. Ejecutar `sql/1_structure.sql`.
+3. Ejecutar `sql/2_data.sql`.
+
+**Cómo ejecutar la aplicación:**
+1. Abrir el proyecto en NetBeans.
+2. Verificar credenciales en `DatabaseConnection.java`.
+3. Ejecutar `src/main/main.java`.
+4. Usar el menú para crear, listar, buscar, actualizar y eliminar empleados/legajos.
+
+**Video de presentación:**
+> -
+
+
 **Integrantes:**
 - ALEJO TOMAS OLIVA COCA
 - CAMILA CASTAÑO
