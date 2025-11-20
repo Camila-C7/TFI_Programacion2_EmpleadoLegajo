@@ -5,7 +5,7 @@ Aplicación Java con relación 1→1 (Empleado → Legajo), utilizando JDBC, el 
 
 _____________________________________________________________________________________________________________________________________________________
 
-**Estructura del proyecto: **
+**Estructura del proyecto:**
 /src
     /config
     /dao
@@ -26,7 +26,7 @@ Arquitectura por capas
 Manejo de transacciones (commit/rollback)
 Validaciones y reglas de negocio
 
-**Funcionalidades principales: **
+**Funcionalidades principales:**
 ✔ CRUD de Empleado
 ✔ CRUD de Legajo
 ✔ Relación 1→1 unidireccional
@@ -35,7 +35,7 @@ Validaciones y reglas de negocio
 ✔ Manejo de errores con BusinessException
 ✔ Menú de consola intuitivo
 
-**Integrantes: **
+**Integrantes:**
 ALEJO TOMAS OLIVA COCA
 CAMILA CASTAÑO
 CHRISTIAN FERNANDO ORMACHEA
